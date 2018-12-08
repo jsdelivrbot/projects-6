@@ -31,7 +31,7 @@ MIT
 	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node.js" height="48">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" height="48">
 	<img src="http://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" alt="jQuery" height="48">
-	<img src="https://cdn.rawgit.com/jekyll/brand/master/jekyll-logo-light-transparent.png" alt="Jekyll" height="48">
+	<img src="https://cdn.jsdelivr.net/gh/jekyll/brand@master/jekyll-logo-light-transparent.png" alt="Jekyll" height="48">
 	<img src="http://bower.io/img/bower-logo.svg" alt="Bower.js" height="48">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CSS3_and_HTML5_badges.svg" alt="HTML5 &amp; CSS3" height="48">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg" alt="Twitter Bootstrap" height="48">

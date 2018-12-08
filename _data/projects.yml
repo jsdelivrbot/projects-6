@@ -8,21 +8,21 @@
 - name: Kildekoden repository explorer
   github: chrisvogt/kildekoden
   demo: http://kildekoden.com
-  banner: https://cdn.rawgit.com/kildekoden/kildekoden/master/source/webroot/img/banner.jpg
+  banner: https://cdn.jsdelivr.net/gh/kildekoden/kildekoden@master/source/webroot/img/banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/kildekoden.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'MongoDB', 'bower', 'html5', 'bootstrap']
 
 - name: WoW character stats
   github: chrisvogt/wowchar-info
   demo: http://wowchar.info
-  banner: https://cdn.rawgit.com/chrisvogt/wowchar-info/master/fos/images/screenshot.jpg
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/wowchar-info@master/fos/images/screenshot.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wowchar.jpg
   tech: ['PHP', 'CakePHP', 'jQuery', 'bower', 'grunt', 'html5', 'bootstrap']
 
 - name: My coding stats report
   github: chrisvogt/stats
   demo: http://stats.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/stats/master/webroot/img/screenshot.png
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/stats@master/webroot/img/screenshot.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/stats.png
   tech: ['PHP', 'CakePHP', 'jQuery', 'grunt', 'bower', 'HTML5', 'foundation']
 
@@ -43,7 +43,7 @@
 - name: Projects directory
   github: chrisvogt/projects
   demo: https://projects.chrisvogt.me
-  banner: https://cdn.rawgit.com/chrisvogt/projects/master/img/og-banner.png
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/projects@master/img/og-banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/projects.jpg
   tech: ['Jekyll', 'bower', 'html5', 'bootstrap']
 
@@ -56,7 +56,7 @@
 - name: "Experiment: prime numbers game"
   github: chrisvogt/JS-Primality-Experiment
   demo: http://chrisvogt.github.io/primality/
-  banner: https://cdn.rawgit.com/chrisvogt/primality/develop/img/og-banner.jpg
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/primality@develop/img/og-banner.jpg
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/primality.jpg
   tech: ['jQuery', 'HTML5', 'bootstrap']
 
@@ -70,7 +70,7 @@
 - name: "artinreality.com"
   github: artinreality/artinreality.github.io
   demo: http://www.artinreality.com
-  banner: https://cdn.rawgit.com/artinreality/artinreality.github.io/develop/img/og-banner.png
+  banner: https://cdn.jsdelivr.net/gh/artinreality/artinreality.github.io@develop/img/og-banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/air.png
   tech: ['HTML5']
 
@@ -91,7 +91,7 @@
 - name: "Wordpress.org Enhancement Kit (Chrome extension)"
   github: chrisvogt/wordpress-support-enhancement-kit
   demo: https://chrome.google.com/webstore/detail/wordpressorg-support-enha/mlodkondjlhhbhcokbpgiafemehdcbel
-  banner: https://cdn.rawgit.com/chrisvogt/wordpress-support-enhancement-kit/master/assets/banner.png
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/wordpress-support-enhancement-kit@master/assets/banner.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/wsek.png
   tech: ['Chrome']
 
@@ -104,18 +104,18 @@
 
 - name: WakaTime CakePHP plugin
   github: chrisvogt/cakephp-wakatime
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/chrisvogt.me@master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP', 'CakePHP']
 
 - name: "CakePHP Wyzant API consumer"
   github: chrisvogt/WyzantSearch
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/chrisvogt.me@master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP', 'CakePHP']
 
 - name: "PHP menu scraping toolkit"
   github: chrisvogt/php-menu-grab-and-convert
-  banner: https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png
+  banner: https://cdn.jsdelivr.net/gh/chrisvogt/chrisvogt.me@master/img/bg-delaunay.png
   thumb: https://res.cloudinary.com/chrisvogt/image/upload/v1443426010/thumbs/default.png
   tech: ['PHP']

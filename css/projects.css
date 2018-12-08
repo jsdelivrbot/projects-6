@@ -304,7 +304,7 @@ footer {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   height: 124px;
-  background: url("https://cdn.rawgit.com/chrisvogt/chrisvogt.me/master/img/bg-delaunay.png") no-repeat top center #544c7a;
+  background: url("https://cdn.jsdelivr.net/gh/chrisvogt/chrisvogt.me@master/img/bg-delaunay.png") no-repeat top center #544c7a;
   padding: 8px 24px;
   color: #cecece;
   border-top: 1px solid #fff;
